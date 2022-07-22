@@ -1,0 +1,26 @@
+{
+    "Locomotives":
+    [
+        {
+            "Id":700,
+            "Description":"CSX 700",
+            "Address":700
+        },
+        {
+            "Id":721,
+            "Description":"CSX 721",
+            "Address":721
+        }
+    ],
+    "Turnouts":
+    [
+        {
+            "Id":1,
+            "Description":"L36"
+        },
+        {
+            "Id":2,
+            "Description":"R72"
+        }
+    ]
+}
